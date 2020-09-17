@@ -2,12 +2,14 @@
 
 É um servidor feito para o SA-MP um modo de Grand Theft Auto San Andreas
 
-#Linguagem
+**Linguagem**
 
 A Linguagem de programação padrão do SA-MP é "Pawn" que é feita em C++
 Nesse projeto eu utilizo Pawn, PHP e SQL para fazer tudo que o envolve em sistemas!
 
-#Modo de Jogo
+**Modo de Jogo**
 O Modo de jogo do Brasil New Roleplay é Full Roleplay, e para garantir isso, temos o sistema de WhiteList
 
 
+[Discord]("discord.gg/bnrp")
+[Projeto no SA-MP Fórums](https://forum.sa-mp.com/showthread.php?t=678328)
